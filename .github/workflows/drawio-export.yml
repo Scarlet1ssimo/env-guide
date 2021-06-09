@@ -17,7 +17,7 @@ jobs:
         uses: rlespinasse/drawio-export-action@v1.x
         with:
           format: svg
-          output: drawio-assets
+          output: docs
           transparent: true
 
       - name: Get author and committer info from HEAD commit

@@ -1,4 +1,0 @@
-= VG101 Page-1
-
-image::VG101-Page-1.png[Page-1]
-
